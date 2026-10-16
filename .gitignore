@@ -1,0 +1,7 @@
+# CFR decompiler + decompile scratch
+cfr.jar
+rebuilt.jar
+build/
+src/summary.txt
+*.class
+.DS_Store
